@@ -1,0 +1,14 @@
+Record=TopLevelDocument|FileName=1-RevisionHistory.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=2-PowerInput.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=3-CPUPower.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=4-CPUMipiXo.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=5-Memory.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=6-CODEC.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=7-IO_Headers.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=8-SensorsAndJTAG.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=9-MIPI.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=10-Click.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=11-CPU_GPIO.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=12-JLINK_1.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=13-JLINK_2.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=1-RevisionHistory.SchDoc|FileName=14-Cypress.SchDoc|SheetNumber=14
